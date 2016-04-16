@@ -1,5 +1,7 @@
 ### Przekierowania, wildcards, uzyskiwanie pomocy
 
+> Nieobowiazkowe
+
 ####Teoria
 1. Strumienie (stdout, stderr)
 2. Wildcards
