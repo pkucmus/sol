@@ -6,6 +6,7 @@
 1. Strumienie (stdout, stderr)
 2. Wildcards
 3. `man` i internet
+
 ####Zadania
 
 Poleceniem `wget` pobierz zawartość strony https://goo.gl/h2m97K, a wynik owego polecenia przekieruj do pliku tekstowego w katalogu `~/sol/zad2`.
