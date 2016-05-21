@@ -9,6 +9,7 @@ Co to jest host, adres rozgłoszeniowy i sieci.
 5. `traceroute`
 6. `ssh` i `scp`
 6. `ifconfig eth0:0 192.168.1.6 up` - dodawanie aliasów - dodatkowych adresów IP
+
 ####Zadania
 #####Liczba hostów
 Podaj adresy rozgłoszeniowe i sieci oraz liczbę hostów podsieci, do których należą następujące adresy:
